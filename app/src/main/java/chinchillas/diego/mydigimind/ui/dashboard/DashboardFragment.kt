@@ -32,7 +32,7 @@ class DashboardFragment : Fragment() {
         //dashboardViewModel.text.observe(viewLifecycleOwner) {
         //    textView.text = it
         //}
-        //return root
+        return root
     }
 
     override fun onDestroyView() {
